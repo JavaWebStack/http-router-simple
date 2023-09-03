@@ -11,12 +11,12 @@
     </properties>
 
     <groupId>org.javawebstack</groupId>
-    <artifactId>http-server-simple</artifactId>
+    <artifactId>http-router-simple</artifactId>
     <version>${buildVersion}</version>
 
-    <name>http-server-simple</name>
-    <description>A really simple implementation of an http server and adapter for http-server.</description>
-    <url>https://github.com/JavaWebStack/http-server-simple</url>
+    <name>http-router-simple</name>
+    <description>A really simple implementation of an http server and adapter for http-router.</description>
+    <url>https://github.com/JavaWebStack/http-router-simple</url>
 
     <licenses>
         <license>
@@ -35,9 +35,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/JavaWebStack/http-server-simple.git</connection>
-        <developerConnection>scm:git:ssh://github.com:JavaWebStack/http-server-simple.git</developerConnection>
-        <url>https://github.com/JavaWebStack/http-server-simple/tree/master</url>
+        <connection>scm:git:git://github.com/JavaWebStack/http-router-simple.git</connection>
+        <developerConnection>scm:git:ssh://github.com:JavaWebStack/http-router-simple.git</developerConnection>
+        <url>https://github.com/JavaWebStack/http-router-simple/tree/master</url>
     </scm>
 
     <dependencies>

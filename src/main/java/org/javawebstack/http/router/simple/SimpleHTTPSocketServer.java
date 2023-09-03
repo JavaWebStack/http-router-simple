@@ -1,4 +1,4 @@
-package org.javawebstack.httpserver.simple;
+package org.javawebstack.http.router.simple;
 
 import org.javawebstack.httpserver.adapter.IHTTPSocketHandler;
 import org.javawebstack.httpserver.adapter.IHTTPSocketServer;
