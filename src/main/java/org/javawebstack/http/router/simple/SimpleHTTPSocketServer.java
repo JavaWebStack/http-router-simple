@@ -1,8 +1,8 @@
 package org.javawebstack.http.router.simple;
 
-import org.javawebstack.httpserver.adapter.IHTTPSocketHandler;
-import org.javawebstack.httpserver.adapter.IHTTPSocketServer;
-import org.javawebstack.httpserver.util.websocket.WebSocketUtil;
+import org.javawebstack.http.router.adapter.IHTTPSocketHandler;
+import org.javawebstack.http.router.adapter.IHTTPSocketServer;
+import org.javawebstack.http.router.util.websocket.WebSocketUtil;
 
 import java.io.IOException;
 import java.net.ServerSocket;
